@@ -37,16 +37,16 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 🎓 Student Grade Analyzer | AI-powered pass/fail predictor using ML | [View](https://github.com/ankrypt/student-grade-analyzer) |
+| 🎓 Student Grade Analyzer | AI-powered pass/fail predictor using ML | [View](https://github.com/Ankryptx/student-grade-analyzer) |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankrypt&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankryptx&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankrypt&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankryptx&layout=compact&theme=tokyonight" />
 </p>
 
 ---
