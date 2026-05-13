@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Student passionate about **Python, AI/ML & Cybersecurity**
-- 📺 Running a YouTube channel **[@Ankrypt](https://youtube.com/@Ankrypt)** where I share tech content
+- 📺 Running a YouTube channel **[@Ankrypt](https://youtube.com/@ankryptofficial?si=z6O94Jo3jqOBI0TM)** where I share tech content
 - 🌱 Currently learning **Machine Learning & Ethical Hacking**
 - 🚀 Building projects to solve real problems
 - 💡 Believer in **learning by doing**
